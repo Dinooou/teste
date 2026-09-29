@@ -70,3 +70,8 @@ return 0;
 ```
 
 
+### Visualização
+
+Essa eu não sabia
+
+
